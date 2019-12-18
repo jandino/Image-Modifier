@@ -1,7 +1,6 @@
-/* © Jose Andino, 2018, all rights reserved
+/* Â© Jose Andino, 2018, all rights reserved
   Professor: Dr. Varick Erickson
   Computer Science 2
-  Assignment 1
 */
 
 #include <fstream>
